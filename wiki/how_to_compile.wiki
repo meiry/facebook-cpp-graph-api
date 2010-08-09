@@ -3,7 +3,8 @@
 
 = Introduction =
 
-Add your content here.
+easy steps to compile the source code on windows xp using visual studio express 
+and Qt gui framework
 
 
 = Details =
