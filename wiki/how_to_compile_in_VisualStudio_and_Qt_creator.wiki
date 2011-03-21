@@ -23,6 +23,7 @@ to compile do this simple steps:<br><br>
 
 
 -- on Qt creator 2.1 
+-------------------------------------------<br>
  # download latest Qt sdk for mingw i used version 4.7.2 for windows xp.download the mingw in the same page , and Qt creator 2.1 for windows
  # open the `FB_GraphApi_mini.pro` into the Qt Creator , it supposed to configure the project.
  # open the file "FBApi.cpp" in the top fill your developer id and application id you got from facebook.group id if you like to use the demo example 
