@@ -1,0 +1,25 @@
+#summary how to compile the source code with visual studio express<br>
+#labels Phase-Deploy,Featured,Phase-Implementation
+And Qt Creator 
+
+= Introduction =
+
+easy steps to compile the source code on windows xp using visual studio express And Qt Creator 
+and Qt gui framework
+
+
+= Details =
+
+to compile do this simple steps:<br>
+-- on visual studio express 2008<br> 
+-------------------------------------------<br>
+# download latest Qt sdk for visual studio i used version 4.7.1 for windows xp. 
+# open cmd ,point it to this directory. 
+# type in the cmd : qmake -tp vc FB_GraphApi.pro 
+    it will create the visual studio c++ project files .
+# load the created vc solution file. 
+# open the file "FBApi.cpp" in the top fill your developer id and application id you got from facebook. 
+  group id if you like to use the demo example 	
+5 hit f5 to compile and run the code.
+<br>
+*remember this is only mocap application to learn how to implement fb api in c++ <br>
