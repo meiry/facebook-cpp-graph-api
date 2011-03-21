@@ -10,7 +10,7 @@ and Qt gui framework
 
 = Details =
 
-to compile do this simple steps:<br>
+to compile do this simple steps:<br><br>
 -- on visual studio express 2008<br> 
 -------------------------------------------<br>
  # download latest Qt sdk for visual studio i used version 4.7.1 for windows xp. 
