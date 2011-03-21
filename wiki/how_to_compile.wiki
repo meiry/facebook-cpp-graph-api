@@ -1,5 +1,5 @@
 #summary how to compile the source code with visual studio express
-#labels Phase-Implementation,Phase-Deploy,Featured
+#labels Phase-Implementation,Phase-Deploy,Deprecated
 
 = Introduction =
 
