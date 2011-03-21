@@ -1,6 +1,5 @@
-#summary how to compile the source code with visual studio express<br>
+#summary how to compile the source code with visual studio express And Qt Creator
 #labels Phase-Deploy,Featured,Phase-Implementation
-And Qt Creator 
 
 = Introduction =
 
