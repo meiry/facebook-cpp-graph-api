@@ -17,8 +17,7 @@ to compile do this simple steps:<br>
  # open cmd ,point it to this directory. 
  # type in the cmd : qmake -tp vc `FB_GraphApi.pro` it will create the visual studio c++ project files .
  # load the created vc solution file. 
- # open the file "FBApi.cpp" in the top fill your developer id and application id you got from facebook. 
-group id if you like to use the demo example 	
+ # open the file "FBApi.cpp" in the top fill your developer id and application id you got from facebook.group id if you like to use the demo example 	
  # hit f5 to compile and run the code.
 <br>
 *remember this is only mocap application to learn how to implement fb api in c++ <br>
