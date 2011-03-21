@@ -15,8 +15,7 @@ to compile do this simple steps:<br>
 -------------------------------------------<br>
  # download latest Qt sdk for visual studio i used version 4.7.1 for windows xp. 
  # open cmd ,point it to this directory. 
- # type in the cmd : qmake -tp vc `FB_GraphApi.pro`
-it will create the visual studio c++ project files .
+ # type in the cmd : qmake -tp vc `FB_GraphApi.pro` it will create the visual studio c++ project files .
  # load the created vc solution file. 
  # open the file "FBApi.cpp" in the top fill your developer id and application id you got from facebook. 
 group id if you like to use the demo example 	
