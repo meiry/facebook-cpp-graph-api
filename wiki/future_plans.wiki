@@ -1,0 +1,19 @@
+#summary what im planing to do
+#labels Phase-Requirements,Phase-Design,Phase-QA
+
+= Introduction =
+
+i wish to separate the GUI stuff from the logic implementation <br>
+that means the logic will be in pure c++ not depending on Qt.
+for now i dont see any good and easy option other then using Qt webkit implementation. 
+
+
+
+= Details =
+
+Future Plan
+  * Linux porting.
+  * Mac porting. 
+  * separation of Logic from GUI (MVC oriented).
+  * keep the Qt at the minimum and depending more on portable pure c++. 
+  * finding some other solution and replacing the Qt Browser. i need ideas here ....   
