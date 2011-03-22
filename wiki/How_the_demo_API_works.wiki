@@ -1,9 +1,11 @@
 #summary FB Api demo
+#labels Featured,Phase-Implementation
 
 = Introduction =
 
 Example on how to use the facebook graph api framework to invoke api.<br>
-i used the api that gives me group wall feeds, then i just collected the data i needs and uploaded to google docs for use .
+i used the api to extract music from my favorite music group wall feeds, then i just collected the data i needed exported it to svc file and uploaded to google docs (also pragmatically ) for using the music clips.
+basically so the data wont get lost! 
 
 
 
@@ -13,4 +15,4 @@ i used the api that gives me group wall feeds, then i just collected the data i 
 The steps :
   * open the file MainWindowContainer.cpp look for the TestAPIs function this is where the api start to invoke 
   * in the same file look for GetGroupWallFeeds function,this is where all the feeds from current date back to the first feed in collected.
-  * Automatic links to other wiki pages
+   
