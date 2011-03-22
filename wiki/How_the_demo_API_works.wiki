@@ -4,7 +4,7 @@
 = Introduction =
 
 Example on how to use the facebook graph api framework to invoke api.<br>
-i used the api to extract music from my favorite music group wall feeds, then i just collected the data i needed exported it to svc file and uploaded to google docs (also pragmatically ) for using the music clips.
+i used the api to extract music from my favorite music group wall feeds,<br> then i just collected the data i needed exported it to svc file and uploaded to google docs (also pragmatically ) for using the music clips.<br>
 basically so the data wont get lost! 
 
 
@@ -13,6 +13,7 @@ basically so the data wont get lost!
 = Details =
 
 The steps :
-  * open the file MainWindowContainer.cpp look for the TestAPIs function this is where the api start to invoke 
-  * in the same file look for GetGroupWallFeeds function,this is where all the feeds from current date back to the first feed in collected.
+  * open the file *`MainWindowContainer.cpp`* look for the *TestAPIs* function this is where the api start to invoke 
+  * in the same file look for *GetGroupWallFeeds* function,this is where all the feeds from current date back to the first feed in collected.
+  * now in the *`FBApi.cpp`* file look at the top for *`GROUP_PING_ID`* variable this is where the group id should be. but your favorite group you wish to extract its data. 
    
