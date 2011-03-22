@@ -2,12 +2,15 @@
 
 = Introduction =
 
-Add your content here.
+Example on how to use the facebook graph api framework to invoke api.<br>
+i used the api that gives me group wall feeds, then i just collected the data i needs and uploaded to google docs for use .
+
+
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
+The steps :
+  * open the file MainWindowContainer.cpp look for the TestAPIs function this is where the api start to invoke 
+  * in the same file look for GetGroupWallFeeds function,this is where all the feeds from current date back to the first feed in collected.
   * Automatic links to other wiki pages
