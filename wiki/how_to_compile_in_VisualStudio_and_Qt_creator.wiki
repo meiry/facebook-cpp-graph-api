@@ -28,4 +28,4 @@ to compile do this simple steps:<br><br>
  # open the file "FBApi.cpp" in the top fill your developer id and application id you got from facebook.group id if you like to use the demo example 
  # hit ctrl+shift+B or the hammer icon to build . 
 <br>
-*remember this is only mocap application to learn how to implement fb api in c++ <br>
+ 
